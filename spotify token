@@ -1,5 +1,0 @@
-git clone https://github.com/your-username/spotify-token-generator.git
-cd spotify-token-generator
-git add .
-git commit -m "Initial commit with Python script"
-git push origin main
