@@ -1,4 +1,5 @@
 import requests
+import base64
 
 CLIENT_ID = 'ae596fd96e6c460a9613c41c6e1fccce'
 CLIENT_SECRET = '8ee9b071fb1c457d91ba8e326348abf4'
